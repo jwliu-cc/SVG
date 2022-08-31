@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# SVG
-
-https://github.com/jwliu-cc/SVG/blob/main/assets/mp4/1-The_grass_was_green,_with_blue_sky_and_white_clouds,_and_the_wind.mp4
-=======
 # Sounding Video Generator 
 
 
@@ -22,14 +17,14 @@ Please don't forget to click "unmute" in the lower right corner of the video to 
       <td >The grass was green, with blue sky and white clouds, and the wind.</td>
       <td align = "center">
       <a href="https://user-images.githubusercontent.com/37931056/187700077-2ba6e528-9219-4c80-94ff-a71f30e6a344.mp4 " rel="nofollow">
-            <img align="center" src="./assest/png/demo_1.png" width="200 style="max-width: 100%;"></a><br>
+            <img align="center" src="./assets/png/demo_1.png" width="200 style="max-width: 100%;"></a><br>
       </td>
     </tr>
     <tr>
       <td >A man in a blue shirt was playing the guitar.</td>
       <td align = "center">
       <a href="https://user-images.githubusercontent.com/37931056/187700213-10164b13-f572-4e34-8c13-316a9d8f023f.mp4 " rel="nofollow">
-            <img align="center" src="./assest/png/demo_2.png" width="200 style="max-width: 100%;"></a><br>
+            <img align="center" src="./assets/png/demo_2.png" width="200 style="max-width: 100%;"></a><br>
       </td>
     </tr>
   </tbody>
