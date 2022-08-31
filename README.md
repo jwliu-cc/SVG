@@ -2,7 +2,7 @@
 
 
 ### Sounding Video Samples
-Please don't forget to click "unmute" in the lower right corner of the video to hear the sound
+Click the picture to jump to play the sounding videos.
 
 <div align = "center">
 <table style="width:100%">
