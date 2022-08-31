@@ -17,7 +17,7 @@ Please don't forget to click "unmute" in the lower right corner of the video to 
       <td >The grass was green, with blue sky and white clouds, and the wind.</td>
       <td align = "center">
       <a href="https://user-images.githubusercontent.com/37931056/187700077-2ba6e528-9219-4c80-94ff-a71f30e6a344.mp4 " rel="nofollow">
-            <img align="center" src="./assets/png/demo_1.png" width="200 style="max-width: 100%;"></a><br>
+            <img align="center" src="./assets/png/demo_1.gif" width="200 style="max-width: 100%;"></a><br>
       </td>
     </tr>
     <tr>
