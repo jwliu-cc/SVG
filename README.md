@@ -1,8 +1,9 @@
 # Sounding Video Generator 
-
+Sounding Video Generator (SVG) is the first unified framework for text-guided video-audio generation.
+Code will be released soon.
 
 ### Sounding Video Samples
-Click the picture to jump to play the sounding videos.
+Click the picture to jump to play the sounding videos. More sampled videos could be found in assets.
 
 <div align = "center">
 <table style="width:100%">
