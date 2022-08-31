@@ -4,6 +4,27 @@
 ### Sounding Video Samples
 Please don't forget to click "unmute" in the lower right corner of the video to hear the sound
 
+<div align = "center">
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th> Input Audio  </th>
+      <th width="550"> Translations Result  </th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+      <td align = "center">
+      <a href="https://user-images.githubusercontent.com/37931056/187700077-2ba6e528-9219-4c80-94ff-a71f30e6a344.mp4 " rel="nofollow">
+            <img align="center" src="./assest/mp4/1-The_grass_was_green,_with_blue_sky_and_white_clouds,_and_the_wind.mp4" width="200 style="max-width: 100%;"></a><br>
+      </td>
+      <td >我 在 这栋 建筑 的 古老 门上 敲门。</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 https://user-images.githubusercontent.com/37931056/187700077-2ba6e528-9219-4c80-94ff-a71f30e6a344.mp4  
 
 https://user-images.githubusercontent.com/37931056/187700213-10164b13-f572-4e34-8c13-316a9d8f023f.mp4
