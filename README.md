@@ -3,7 +3,7 @@ Sounding Video Generator (SVG) is the first unified framework for text-guided vi
 Code will be released soon.
 
 ### Sounding Video Samples
-Click the picture to jump to play the sounding videos. More sampled videos could be found in assets.
+Click the picture to jump to play the sounding videos. More sampled videos and audios could be found in assets.
 
 <div align = "center">
 <table style="width:100%">
