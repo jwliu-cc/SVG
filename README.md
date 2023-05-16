@@ -1,6 +1,6 @@
 # Sounding Video Generator: A Unified Framework for Text-guided Sounding Video Generation
 
-- This is the official repository of Sounding Video Generator (SVG, [arxiv version](https://arxiv.org/abs/2303.16541), [TMM version](https://ieeexplore.ieee.org/document/10091449)), which is the first unified framework for Text-to-Sounding-Video (T2SV) generation, as is known to us.
+- This is the official repository of Sounding Video Generator (SVG, [TMM version](https://ieeexplore.ieee.org/document/10091449), [arxiv version](https://arxiv.org/abs/2303.16541)), which is the first unified framework for Text-to-Sounding-Video (T2SV) generation, as is known to us.
 - The latest version of the AudioSet-Cap dataset is [VALOR-1M](https://casia-iva-group.github.io/projects/VALOR/download.html), which contains more videos and annotations. The AudioSet-Cap test set could be found at `/assets/AudioSet-Cap_test.json`.
 
 ### Sounding Video Samples
